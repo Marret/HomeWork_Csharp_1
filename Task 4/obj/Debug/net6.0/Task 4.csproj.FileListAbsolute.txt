@@ -1,0 +1,15 @@
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\obj\Debug\net6.0\Task 4.csproj.AssemblyReference.cache
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\obj\Debug\net6.0\Task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\obj\Debug\net6.0\Task 4.AssemblyInfoInputs.cache
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\obj\Debug\net6.0\Task 4.AssemblyInfo.cs
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\obj\Debug\net6.0\Task 4.csproj.CoreCompileInputs.cache
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\bin\Debug\net6.0\Task 4.exe
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\bin\Debug\net6.0\Task 4.deps.json
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\bin\Debug\net6.0\Task 4.runtimeconfig.json
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\bin\Debug\net6.0\Task 4.dll
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\bin\Debug\net6.0\Task 4.pdb
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\obj\Debug\net6.0\Task 4.dll
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\obj\Debug\net6.0\refint\Task 4.dll
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\obj\Debug\net6.0\Task 4.pdb
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\obj\Debug\net6.0\Task 4.genruntimeconfig.cache
+C:\GeekBrainse education\Programming languages\С#\Homework\Lesson 1 HM\Task 4\obj\Debug\net6.0\ref\Task 4.dll

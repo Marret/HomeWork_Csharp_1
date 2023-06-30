@@ -4,13 +4,11 @@ a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3*/
 Console.Clear();
 Console.WriteLine("В ведите 1 число :");
-    int num1 = int.Parse(Console.ReadLine());
+int num1 = int.Parse(Console.ReadLine());
 Console.WriteLine("В ведите 2 число :");
-    int num2 = int.Parse(Console.ReadLine());
+int num2 = int.Parse(Console.ReadLine());
 int max = num1;
-if (num1>max)
-max = num1;
-else
-    {if (num2>max)
-    max = num2;}
-    Console.WriteLine ($"max= {max}");
+
+if (num2 > max) max = num2;
+
+Console.WriteLine($"max= {max}");
