@@ -3,7 +3,7 @@
 -3 -> нет
 7 -> нет*/
 Console.Clear();
-Console.WriteLine("В ведите 1 число :");
+Console.WriteLine("В ведите число :");
 int num1 = int.Parse(Console.ReadLine());
 if (num1%2==0) 
 Console.WriteLine("ДА");
